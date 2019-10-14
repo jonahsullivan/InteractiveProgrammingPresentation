@@ -1,4 +1,4 @@
-# InteractiveProgrammingPresentation
+# Interactive Programming Presentation
 * Qt Background
 * Installing Qt and PyQt5
 * GUI Design
